@@ -1,0 +1,8 @@
+def test01(a,b):
+   return a*b
+
+def test02(c,d):
+  return c*d
+
+def test03(f,g)
+  return f+g

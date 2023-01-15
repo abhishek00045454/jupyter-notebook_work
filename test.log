@@ -1,0 +1,24 @@
+DEBUG:root:30
+DEBUG:root:-10
+DEBUG:root:200
+DEBUG:root:0.5
+INFO:root:this is the info
+WARNING:root:this is the warming
+CRITICAL:root:this is my code dont access
+ERROR:root:this is the name error
+DEBUG:root:30
+DEBUG:root:-10
+DEBUG:root:200
+DEBUG:root:0.5
+INFO:root:this is the info
+WARNING:root:this is the warming
+CRITICAL:root:this is my code dont access
+ERROR:root:this is the name error
+DEBUG:root:30
+DEBUG:root:-10
+DEBUG:root:200
+DEBUG:root:0.5
+INFO:root:this is the info
+WARNING:root:this is the warming
+CRITICAL:root:this is my code dont access
+ERROR:root:this is the name error
